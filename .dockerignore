@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.local
+secrets
+backend
+*.log
+.git
+.gitignore
+.aistudio
+
